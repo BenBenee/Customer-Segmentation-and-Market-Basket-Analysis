@@ -8,3 +8,5 @@
 # Market Basket Analysis
 Market Basket Analysis is a technique which identifies the strength of association between pairs of products purchased together and identify patterns of co-occurrence. A co-occurrence is when two or more things take place together. One of the methods is called association-rules.
 
+also, you can check on my Google Colab notebook here!
+https://colab.research.google.com/drive/15V4AKiUgciZqYdOCZbDHOk6l4H9B1Zuq?usp=sharing
